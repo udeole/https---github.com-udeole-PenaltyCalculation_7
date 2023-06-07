@@ -1,0 +1,24 @@
+﻿@model PenaltyCalculation_7.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-controller="Account" asp-action="Login" method="post">
+<div class="form-group">
+<label asp-for="Username">Username:</label>
+<input asp-for="Username" class="form-control" id="Username" required>
+</div>
+
+<div class="form-group">
+<label asp-for="Password">Password:</label>
+<input asp-for="Password" type="password" class="form-control" id="Password" required>
+</div>
+<button type="submit" class="btn btn-primary">Login</button>
+
+  <label>
+            <input type="checkbox" checked="checked" name="remember"> Remember me </br>
+           
+</label>
+</form>
