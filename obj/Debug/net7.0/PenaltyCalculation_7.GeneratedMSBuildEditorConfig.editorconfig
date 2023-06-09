@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PenaltyCalculation_7
 build_property.RootNamespace = PenaltyCalculation_7
-build_property.ProjectDir = c:\Users\udeole\OneDrive - Capgemini\Documents\New Hachthon\PenaltyCalculation_7\
+build_property.ProjectDir = C:\Users\udeole\OneDrive - Capgemini\Documents\New Hachthon\PenaltyCalculation_7\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\udeole\OneDrive - Capgemini\Documents\New Hachthon\PenaltyCalculation_7
+build_property.MSBuildProjectDirectory = C:\Users\udeole\OneDrive - Capgemini\Documents\New Hachthon\PenaltyCalculation_7
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/Home/Login.cshtml]
+[C:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/Home/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+[C:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/Registration/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uXFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/Shared/Error.cshtml]
+[C:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/_ViewImports.cshtml]
+[C:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/_ViewStart.cshtml]
+[C:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/Shared/_Layout.cshtml]
+[C:/Users/udeole/OneDrive - Capgemini/Documents/New Hachthon/PenaltyCalculation_7/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-czlgzoorg4

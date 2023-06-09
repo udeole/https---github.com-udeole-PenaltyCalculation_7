@@ -11,7 +11,7 @@ using PenaltyCalculation_7.Data;
 namespace PenaltyCalculation_7.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20230607071150_PenaltyCalculation")]
+    [Migration("20230608103649_PenaltyCalculation")]
     partial class PenaltyCalculation
     {
         /// <inheritdoc />

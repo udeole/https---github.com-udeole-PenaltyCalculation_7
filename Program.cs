@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using PenaltyCalculation_7.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<MyDbContext>(option=>{
+
+option.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
+
+});
 
 var app = builder.Build();
 
@@ -25,6 +33,6 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Login}/{id?}");
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Register}/{id?}");
+    pattern: "{controller=Registration}/{action=Register}/{id?}");
 
-app.Run();
+app.Run();  
